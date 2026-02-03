@@ -2,7 +2,7 @@
 -- Base de Datos: tienda
 -- Descripción: Script SQL para crear la base de datos
 --              y tabla de productos con datos de ejemplo
--- Autor: Sistema CRUD MVC PHP
+-- Autor: Luis Sánchez Herrera
 -- Fecha: 2026-02-02
 -- =====================================================
 
